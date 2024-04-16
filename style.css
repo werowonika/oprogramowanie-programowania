@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background-color:#555555;
+}
+
+.header {
+    margin: 2rem 2rem 0 2rem;
+    padding: 0.5rem;
+    width: 90%;
+    border: 2px solid black;
+    font-size: 60px;
+}
+
+.embed{
+    background-color: white;
+    margin: 2rem;
+    padding: 0.5rem;
+    width: 70%;
+    height: 60%;
+    border: 2px solid black;
+}
+
+.footer{
+    margin: 0 2rem 0 2rem;
+    padding: 0.5rem;
+    width: 60%;
+    border: 2px solid black;
+}
+
+/* marquee{
+    font-size: 60px;
+} */
