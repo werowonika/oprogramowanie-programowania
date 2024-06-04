@@ -1,0 +1,46 @@
+html{
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: lighter;
+}
+body{
+    background-color: #111119;
+    margin: 0;
+}
+canvas{
+    margin-top: 50px;
+}
+
+h1{
+    font-weight: lighter;
+    text-align: center;
+    font-size:64px;
+}
+
+#threejs-container {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#info-text{
+    font-size: 30px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+a{
+    padding: 10px;
+    padding-left: 50px; padding-right: 50px;
+    border: 2px solid white;
+    text-decoration: none;
+    color: white;
+    background-color: grey;
+
+}
+a:hover{
+    background-color: darkgray; /* real talk czym się różni gray od grey? i dlaczego dark jest jaśniejszy od zwykłego? */
+}
