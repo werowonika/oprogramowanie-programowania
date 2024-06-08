@@ -24,7 +24,7 @@ Do projektu została wybrana metodologia agile. Praca nad projektem będzie prze
 Makiety aplikacji
 
 
-Diagramy klas
+<s>Diagramy klas</s>
 
 
 Diagramy przypadków użycia
