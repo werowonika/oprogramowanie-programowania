@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net" modified="2024-06-08T19:27:40.488Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0 (Edition std-1)" etag="9cMUPoTBB7LYWSFY00tb" version="24.5.2" type="google">
+  <diagram name="Page-1" id="UPcenuZyCLTetnQCZN48">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AqcVJ9asn28zeckG-uDI-2" value="Body" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="200" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="AqcVJ9asn28zeckG-uDI-3" value="&lt;div&gt;&lt;div&gt;+ pos: list&lt;/div&gt;&lt;div&gt;+ vel: list&lt;/div&gt;&lt;div&gt;+ acc: list&lt;/div&gt;&lt;div&gt;+ mass: float&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="AqcVJ9asn28zeckG-uDI-2">
+          <mxGeometry y="26" width="200" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="AqcVJ9asn28zeckG-uDI-4" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="AqcVJ9asn28zeckG-uDI-2">
+          <mxGeometry y="90" width="200" height="2" as="geometry" />
+        </mxCell>
+        <mxCell id="AqcVJ9asn28zeckG-uDI-5" value="+ update(float): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="AqcVJ9asn28zeckG-uDI-2">
+          <mxGeometry y="92" width="200" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
