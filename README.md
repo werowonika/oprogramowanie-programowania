@@ -21,7 +21,7 @@ Do projektu została wybrana metodologia agile. Praca nad projektem będzie prze
 <s></s>
 
 
-Makiety aplikacji
+<s>Makiety aplikacji</s> - https://www.figma.com/design/cjcWo5lwnFH4vKpeuc8M5a/Untitled?node-id=0-1&t=PSYKB2MwjnnzyuDh-1
 
 
 <s>Diagramy klas</s>
