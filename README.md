@@ -27,13 +27,13 @@ Makiety aplikacji
 <s>Diagramy klas</s>
 
 
-Diagramy przypadków użycia
+<s>Diagramy przypadków użycia</s>
 
 
 Diagramy komponentów
 
 
-Diagramy sekwencji
+<s>Diagramy sekwencji</s>
 
 
-Dokumentacja użytkownika
+<s>Dokumentacja użytkownika</s> - https://docs.google.com/document/d/1uFegUpoi6dkuKrWgph5Qk-QAGmXiSihW6Z8DYHchXf4/edit?usp=sharing
